@@ -44,7 +44,7 @@
 
   <div class="section">
     <h2>💬 Participer</h2>
-    <p>Rejoins notre <a href="https://discord.gg/TONINVITE">serveur Discord</a> pour contribuer à l’univers.</p>
+    <p>Rejoins notre <a href="https://discord.gg/FPwtyVTp9g">serveur Discord</a> pour contribuer à l’univers.</p>
   </div>
 </body>
 </html>

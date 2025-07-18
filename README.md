@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="fr">
 <head>
   <meta charset="UTF-8">
@@ -28,7 +27,7 @@
 </head>
 <body>
   <h1>Bienvenue sur le Wiki d'Oria</h1>
-  <p>Un univers de science-fiction communautaire, forgé par les idées et les rêves d'une génération.</p>
+  <p>Un univers de science-fiction. </p>
 
   <div class="section">
     <h2>📘 Sections principales :</h2>

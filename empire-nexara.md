@@ -38,7 +38,7 @@
       <li><a href="#">Technologie</a></li>
       <li><a href="#">Organisation Militaire</a></li>
       <li><a href="#">Lois & Gouvernance</a></li>
-      <li><a href="index.html">⬅️ Retour à l’accueil</a></li>
+      <li><a href="README.md">⬅️ Retour à l’accueil</a></li>
     </ul>
   </div>
 </body>

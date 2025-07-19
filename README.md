@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="fr">
 <head>
   <meta charset="UTF-8">
@@ -16,9 +17,11 @@
     a {
       color: #5ab0f7;
       text-decoration: none;
+      transition: color 0.3s;
     }
     a:hover {
       text-decoration: underline;
+      color: #ffffff;
     }
     .section {
       margin-top: 2em;
@@ -27,17 +30,12 @@
 </head>
 <body>
   <h1>Bienvenue sur le Wiki d'Oria</h1>
-  <p>Un univers de science-fiction. </p>
+  <p>Un univers de science-fiction construit par la communauté.</p>
 
   <div class="section">
-    <h2>📘 Sections principales :</h2>
+    <h2>📘 Entrée Principale :</h2>
     <ul>
-      <li><a href="#">Chronologie</a></li>
-      <li><a href="#">Régions & Nations</a></li>
-      <li><a href="#">Factions</a></li>
-      <li><a href="#">Personnages importants</a></li>
-      <li><a href="#">Technologies & Systèmes</a></li>
-      <li><a href="#">Lois & Organisation</a></li>
+      <li><a href="empire-nexara.html">Empire Nexara</a></li>
     </ul>
   </div>
 
